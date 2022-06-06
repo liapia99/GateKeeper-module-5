@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import "./styles.css";
 
-import Home from "./Pages/Home";
+// import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Profile from "./Pages/Profile";
 import Signup from "./Pages/Auth/Signup";
